@@ -1,0 +1,31 @@
+body{
+    background-color: #0c0c14; 
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: #9d0208;
+    color: white;
+}
+
+h3{
+    background-color: #9d0208;
+    color: white;
+    display: grid;
+    place-content: center;
+    padding: 5px;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #9d0208;
+    width: 10%;
+    border-width: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: #9d0208;
+}
